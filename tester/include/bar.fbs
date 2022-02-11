@@ -1,0 +1,3 @@
+table Bar {
+  name: string;
+}

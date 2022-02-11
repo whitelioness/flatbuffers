@@ -1,0 +1,5 @@
+namespace derekbailey;
+
+table Baz {
+  id: int64;
+}

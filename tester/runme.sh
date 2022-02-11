@@ -1,0 +1,1 @@
+../flatc --ts -I include baz.fbs foo.fbs include/bar.fbs

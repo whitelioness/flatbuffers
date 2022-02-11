@@ -1,0 +1,12 @@
+include "include/bar.fbs";
+include "baz.fbs";
+
+namespace derekbailey;
+
+table Foo {
+  a:int;
+  b:Bar;
+  c:Baz;
+}
+
+root_type Foo;
