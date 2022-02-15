@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;netstandard2.0;net46</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageId>Phio.Net.FlatBuffers</PackageId>
+    <PackageVersion>2.0.5</PackageVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(UNSAFE_BYTEBUFFER)' == 'true'">
